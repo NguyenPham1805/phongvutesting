@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "The Russian",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Just as I Am",
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "The Vanishing Half",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "The Midnight Library",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Untamed",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Viscount Who Loved Me",
+      "available": true
+    }
+  ],
+  "orders": [
+    {
+      "bookId": 4,
+      "displayName": "Felipe Batz",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Angel.Williamson77",
+      "password": "84minQl9ub9gn_E"
+    },
+    {
+      "id": 2,
+      "username": "Fermin_Leuschke87",
+      "password": "A2vXaetWv8gmA5m"
+    },
+    {
+      "id": 3,
+      "username": "Fermin_Leuschke87",
+      "password": "4Ke8KMKYGTJsFaa"
+    }
+  ]
+}
